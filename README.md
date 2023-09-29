@@ -19,4 +19,6 @@ link:https://blog.csdn.net/Program_dancing/article/details/102543579?ops_request
 
 Also I found a way to create watercolour edges using P5.js also informative.
 
+![example](asset/img4.png)
+
 link：https://blog.csdn.net/cxu0262/article/details/106256907?ops_request_misc=&request_id=&biz_id=102&utm_term=p5.js%E5%A2%A8%E6%B0%B4%E6%99%95%E6%9F%93&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-2-106256907.142^v94^insert_down1&spm=1018.2226.3001.4187
