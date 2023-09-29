@@ -5,6 +5,7 @@
 ### PART 1
 
 The technique explored in this section is Chinese ink haloing, where the entire image depicts several drops of ink spread out on rice paper. It seems to be a very simple phenomenon, but if one wants to implement it in code one will find it to be a very challenging task. Essentially a combination of line and graphic work, it will be visually beautiful and stunning.
+
 ![start status](asset/img1.png)
 ![end status](asset/img2.png)
 
